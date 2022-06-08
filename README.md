@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tien Dat Truong
 - 👀 I’m interested in Data Analysis field
 - 🌱 I’m currently learning Quantitative Finance in Kiel University, Germany
-- 💞️ I’m looking to collaborate on Finnance, Sport Data Project
+- 💞️ I’m looking to collaborate on Finance, Sport Data Project
 - 📫 How to reach me : Email: tiendat21071995@gmail.com
 
 <!---
